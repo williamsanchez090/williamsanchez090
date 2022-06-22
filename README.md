@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/101963767/172040291-582c750b-be76-4d2f-8ec8-647b4b0b4aeb.png)
 
 <h1 align="center">Hi 👋, I'm William Sanchez</h1>
-<h3 align="center">A passionate Full-stack developer from Boston Massachusetts</h3>
+<h3 align="center">A passionate Software Engineer from Boston Massachusetts</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamsanchez090" alt="williamsanchez090" /></a> </p>
 
